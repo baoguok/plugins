@@ -11,6 +11,8 @@ xiuno bbs插件收集，欢迎提交。
 | 帖子收藏(haya_favorite) | 收藏自己喜欢的帖子，展示热门收藏的帖子。 | haya | 2.5.21 | √ |
 | 帖子点赞(haya_post_like) | 对喜欢的帖子点赞及对喜欢的回复点赞。 | haya | 2.5.10 | √ |
 | 登陆/回复可见 | 发帖时可以选择登陆和回复可见。 | 查鸽信息网 | 1.4 |
+| Markdown编辑器(aci_mdeditor) | 基于Ace editor和parsedown编辑器，支持上传插入图片。 | aci | 1.0 |
+| Simditor编辑器(jianjianxu_simditor) | Simditor编辑器非常简洁，符合xiuno的风格。 | vikingleo | 1.0 |
 
 ## 主题模板
 
